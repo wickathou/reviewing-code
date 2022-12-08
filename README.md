@@ -46,7 +46,7 @@ To run the project, open index.html with your preferred web browser or open it w
 
 ## 👥 Author <a name="author"></a>
 
-👤 **Chase Innocent**
+👤 Original author **Chase Innocent**
 
 - GitHub: [@Chaseknis](https://github.com/Chaseknis)
 
